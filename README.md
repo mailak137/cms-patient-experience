@@ -60,3 +60,11 @@ The main barrier is likely to be time on busy wards. I would test the prompt qui
 - Star ratings only cover hospitals with at least 100 completed surveys, so smaller hospitals are left out of those comparisons.
 - The data comes from US hospitals, so results may not apply directly to other health systems.
 - The recommendations are based on the findings and my clinical experience. They haven't been tested, which is why I suggest starting with small PDSA cycles.
+
+## Files
+- `cleaning.sql`: cleaning the raw CMS data
+- `analysis.sql`: all SQL queries used in the analysis
+- `always_pct.csv`: share of patients answering "always" by area
+- `nurse_medicines.csv`: medicines communication stars by nurse communication rating
+- `state_medicines.csv`: medicines communication stars by state
+- `patient-experience-dashboard.png`: screenshot of the Tableau dashboard
