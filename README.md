@@ -54,7 +54,7 @@ To track progress, I would use two measures: the share of patients who say staff
 The main barrier is likely to be time on busy wards. I would test the prompt quickly on one ward first, then build it into the electronic medication record, where teach-back can be recorded automatically and tracked monthly without extra paperwork. Hospitals could also give patients simple side-effect information they can open on their phone, for example through a QR code or the patient portal.
 
 ## Limitations
-- The survey shows where patients report gaps, but not why they happen. The next step would be qualitative work, such as short interviews or focus groups with nurses, pharmacists and patients, to understand why side effects are often not explained.
+- The survey shows where patients report gaps, but not why they happen. The next step would be qualitative work, such as short interviews or focus groups with nurses, pharmacists and patients, to understand why side effects are not consistently explained.
 - Figures are averages across hospitals, not across all patients, so a small hospital counts the same as a large one. This is why my results differ slightly from CMS's national averages, for example, 48% against 49% for side effects (see data and tools).
 - The link between nurse communication and medicines communication is a correlation. It doesn't prove that improving one will improve the other.
 - Star ratings only cover hospitals with at least 100 completed surveys, so smaller hospitals are left out of those comparisons.
